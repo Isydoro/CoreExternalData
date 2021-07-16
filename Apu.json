@@ -1,0 +1,137 @@
+[
+	{
+		"question": "Potable water is stored:",
+		"answers": [
+			"In storage tanks in each toilets and galleys",
+			"In 2 tanks in the side walls of the AFT cargo compartments",
+			"In a single tank in the avionics compartments",
+			""
+		],
+		"correctIndex": 1,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 1
+	},
+	{
+		"question": "Waste water from the galleys and from the sinks in the lavatories are:",
+		"answers": [
+			"Drains in the waste storage tanks",
+			"Drains over board through 2 anti iced drain",
+			"",
+			""
+		],
+		"correctIndex": 1,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 2
+	},
+	{
+		"question": "Waste from toilets bowls is drained into 2 waste storage tanks:",
+		"answers": [
+			"By differential pressure above 16000 ft",
+			"By gravity",
+			"By a vacuum generator at all altitudes",
+			""
+		],
+		"correctIndex": 0,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 3
+	},
+	{
+		"question": "To check the potable water level:",
+		"answers": [
+			"Indicators on the Forward Attendant's Panel.",
+			"Ground service staff delivers a load sheet about water.",
+			"It is not possible to check the water tank level.",
+			""
+		],
+		"correctIndex": 0,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 4
+	},
+	{
+		"question": "Potable water is piped to washbasins and toilet boils. If a water leak occurs, valves can isolate those two from the water system by:",
+		"answers": [
+			"Manual shutoff valves situated under toilet boils.",
+			"Electrical shutoff valves on the Forward Attendant's Panel.",
+			"Automatic shutoff valves.",
+			""
+		],
+		"correctIndex": 0,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 5
+	},
+	{
+		"question": "It’s possible to check the potable water level?",
+		"answers": [
+			"On the Forward Attendant's Panel and the Aft Service Panel Indicators",
+			"In each galley",
+			"On the Forward Attendant's Panel Indicator",
+			""
+		],
+		"correctIndex": 2,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 6
+	},
+	{
+		"question": "Toilet system. Select the correct statement",
+		"answers": [
+			"Engine low air pressure bleed permits waste toilet flushing",
+			"Above 16000 ft a vacuum generator ensure differential pressure to﻿flush toilets",
+			"On ground and below 16000 ft a vacuum generator ensure differential﻿ pressure to flush toilets",
+			""
+		],
+		"correctIndex": 2,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 7
+	},
+	{
+		"question": "Select the correct statement",
+		"answers": [
+			"Wastewater from galleys and toilet sinks drains overboard through two﻿anti-iced drain masts",
+			"Wastewater from galleys and toilet sinks drains overboard through one﻿anti-iced drain mast",
+			"Wastewater from galleys and toilet sinks drains overboard through two﻿anti-iced drain masts",
+			""
+		],
+		"correctIndex": 2,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 8
+	},
+	{
+		"question": "Potable water is piped to washbasins and toilet boils. If water leak﻿occurred, valves can isolate those two from the water system by",
+		"answers": [
+			"Manuals shutoff valves situated under toilet boils",
+			"Electricals shutoff valves on the Forward Attendant's Panel",
+			"Automatics shutoff valves",
+			""
+		],
+		"correctIndex": 0,
+		"module": 38,
+		"lesson": 0,
+		"feedback": "Water&Waste",
+		"picture": "default",
+		"num": 9
+	}
+]
